@@ -2,7 +2,7 @@ This repository contains scirpts and data for the development of dashboad that s
 
 ### Quick Start
 
-(1) Please download library-level data from [](https://zenodo.org/doi/10.5281/zenodo.10214444) and place on the root directory.
+(1) Please download library-level data from [this](https://zenodo.org/doi/10.5281/zenodo.10214444), and place on the root directory.
 
 (2) Run this command.
 
